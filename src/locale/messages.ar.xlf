@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="mainMenuAboutItem" datatype="html">
+        <source>about</source>
+        <target>ﺎﻨﺑ ﻞﺼﺗﺍ</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/page-header/page-header.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mainMenuStoryItem" datatype="html">
+        <source>story</source>
+        <target>ﺎﻧﺅﺎﻛﺮﺷ</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/page-header/page-header.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mainMenuMissionItem" datatype="html">
+        <source>mission</source>
+        <target>ﺎﻨﺗﺎﻣﺪﺧ</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/page-header/page-header.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mainMenuServicesItem" datatype="html">
+        <source>services</source>
+        <target>ﺎﻨﺘﻟﺎﺳﺭ</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/page-header/page-header.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mainMenuPortfolioItem" datatype="html">
+        <source>portfolio</source>
+        <target>ﺎﻨﺘﺼﻗ</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/page-header/page-header.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mainMenuContactItem" datatype="html">
+        <source>contact us</source>
+        <target>ﻲﺳ ﻲﺗ ﻡﺍ</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/page-header/page-header.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionMainTitle" datatype="html">
+        <source>A creative  travel  agency</source>
+        <target></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-section/main-section.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionMainSlogan" datatype="html">
+        <source>
+      that you can <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>trust<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> because <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+      <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>trust<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> is mutual
+    </source>
+        <target>
+      <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>ﻲﻋﺍﺪﺑﺇ<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> ﻡﻮﻬﻔﻤﺑ ﺔﺣﺎﻴﺴﻟﺍ <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+      ﺢﻴﺤﺼﻟﺍ ﻥﺎﻜﻤﻟﺍ ﻲﻓ <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>ﺔﻘﺜﻟﺍ<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+    </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/main-section/main-section.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionMaitaTravelTitle" datatype="html">
+        <source>Maita <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Travel<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target>ﺔﺣﺎﻴﺴﻠﻟ <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>ﺔﻄﻳﺎﻌﻤﻟﺍ<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/section-maita-travel/section-maita-travel.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionMaitaTravelContent" datatype="html">
+        <source>
+    Our team of professionals make a big difference in helping people to ensure that our customers will get to their destinies save and <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>secured<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+    Again our personnel is our most special asset in our company . “ Trust is our name “ . Our new way of handling traveling is what we make us different than the rest . Innovating the market and creating new concepts of traveling give us the confidence to explore and invest in our customers and clients.
+  </source>
+        <target>
+    ﺔﻓﺮﻌﻤﻟﺍ ﻪﻴﻓ ﻡﺪﻘﻧ ﻱﺬﻟﺍ ﻥﺎﻜﻤﻟﺍ ﻮﻫﻭ ﺰﻴﻤﺘﻣ ﻲﺣﺎﻴﺳ ﺞﻣﺎﻧﺮﺑ
+ﺎﻨﺗﺎﻗﻼﻋ ﺔﻜﺒﺷ ﻊﻀﻧﻭ ، ﻢﻜﻳﺪﻳﺃ ﻦﻴﺑ ﺓﺩﻮﻬﺸﻤﻟﺍ ﺔﻴﺣﺎﻴﺴﻟﺍ ﺓﺮﺒﺨﻟﺍﻭ
+ﻦﻴﻋﻮﻓﺪﻣ ﺔﻋﺎﺴﻟﺍ ﺭﺍﺪﻣ ﻰﻠﻋ ﻭ ﻢﻜﺘﻣﺪﺨﺑ ﺪﻌﺴﻨﻟ ﻢﻜﻓﺮﺼﺗ ﺖﺤﺗ
+. ﻡﺎﻬﻟﻹﺍﻭ ﺔﻓﺮﻌﻤﻟﺍﻭ ﻉﺍﺪﺑﻹﺎﺑ
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/section-maita-travel/section-maita-travel.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionAboutUsTitle" datatype="html">
+        <source>About <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Us<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>ﻲﺳ ﻲﺗ ﻡﺃ<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/about-us/about-us.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionAboutUsContent" datatype="html">
+        <source>
+      MTC(Maita Travel Club) - the new  Innovation Travel Program
+      is a travel agency that market its own inventory . Our team works round the clock to deliver excellent customer service and good results driven by creativity and  strong knowledge rooted in the travel services.
+  </source>
+        <target>
+      ﺎﻨﺘﻘﻳﺮﻃ  ﻲﺳ ﻲﺗ ﻡﺃ  ﺔﺣﺎﻴﺴﻠﻟ ﺔﻄﻳﺎﻌﻤﻟﺍ ﻱﺩﺎﻧ ﻲﻓ ﺎﻨﻟ
+ﺓﺪﻳﺪﺟ ﺎﻗﺎﻓﺁ ﺢﺘﻔﻧ ، ﺎﻬﻴﻟﺇ ﻕﻮﺒﺴﻤﻟﺍ ﺮﻴﻏﻭ  "ﺮﻔﺴﻟﺍ" ﻲﻓ ﺓﺮﻜﺘﺒﻤﻟﺍ
+. ﺭﺎﻤﺜﺘﺳﻻﺍ ﻥﺎﻣﺃ ﻥﺎﻤﻀﻟ ، ﺎﻨﻤﻴﻫﺎﻔﻣ ﻖﺒﻄﻧﻭ ، ﺔﺣﺎﻴﺴﻠﻟ
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/about-us/about-us.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurStoryQuote1" datatype="html">
+        <source>
+          Thinks about strategy and collects the team together all the time
+        </source>
+        <target>
+          Thinks about strategy and collects the team together all the time
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-story/our-story.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurStoryQuote2" datatype="html">
+        <source>
+          If he could sell his own pants - someone possibly was
+          wearing them already
+        </source>
+        <target>
+          If he could sell his own pants - someone possibly was
+          wearing them already
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-story/our-story.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurStoryQuote3" datatype="html">
+        <source>
+          Descrypts thoughts of CEO and turn them into certain action
+        </source>
+        <target>
+          Descrypts thoughts of CEO and turn them into certain action
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-story/our-story.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurStoryQuote4" datatype="html">
+        <source>
+          Loves big numbers and to spend money
+        </source>
+        <target>
+          Loves big numbers and to spend money
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-story/our-story.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurStoryQuote5" datatype="html">
+        <source>
+          All operations this guy make are clean and neatly like
+          at hospital
+        </source>
+        <target>
+          All operations this guy make are clean and neatly like
+          at hospital
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-story/our-story.component.html</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurStoryQuote6" datatype="html">
+        <source>
+          Give him what to sell and he&apos;ll ask you if you have more
+        </source>
+        <target>
+          Give him what to sell and he&apos;ll ask you if you have more
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-story/our-story.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurStoryTitle" datatype="html">
+        <source>Our <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Story<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>ﺎﻨﺘﺼﻗ<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-story/our-story.component.html</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurStoryContent1" datatype="html">
+        <source>
+    Alma’Aitah Family has reach a number of 60,000 members in Jordan, the strength of our tribe had driven us to give our name the slogan “ A GOOD NAME WORTH MORE THAN GOLD “. We deliver integrity, honesty,
+    responsibility, dedication and business ethics.
+  </source>
+        <target>
+    ﺔﻠﻳﻮﻃ ﺡﺎﺠﻧ ﺔﺼﻗ ﺎﻨﻟ ﻥﺃ ﺔﺣﺎﻴﺴﻠﻟ ﺔﻄﻳﺎﻌﻤﻟﺍ ﻱﺩﺎﻧ ﻲﻓ ﺮﺨﻔﻧ
+ﺎﻴﻧﺩﺭﺃ ﺔﻘﻳﺮﻌﻟﺍﻭ ﺓﺮﻴﺒﻜﻟﺍ ﺔﻄﻳﺎﻌﻤﻟﺍ ﺔﻠﺋﺎﻋ ﻢﺳﺍ ﻞﻤﺤﺗ ﺓﺰﻴﻤﺘﻣﻭ
+ﺭﺪﻗ ﻰﻠﻋ ﻥﻮﻜﻧ ﻥﻷ ﺎﻨﺘﻌﻓﺩ ﻪﻠﻟﺎﺑ ﺔﻘﺜﻟﺍﻭ ﺓﻮﻘﻟﺍﻭ ، ﺎﻴﻤﻟﺎﻋﻭ
+ﻲﻨﻌﻳ ﺐﻫﺫ ﻦﻣ ﻢﺳﺍ ﺔﻄﻳﺎﻌﻤﻟﺍ .. ﻢﺳﻻﺍ ﺍﺬﻫ ﻞﻤﺤﻟ ﺔﻴﻟﻭﺆﺴﻤﻟﺍ
+ﻲﺘﻟﺍ ﺪﻬﻌﻟﺍ ﺕﺎﻴﻗﻼﺧﺃﻭ ﻲﻧﺎﻔﺘﻟﺍﻭ ﺔﻴﻟﻭﺆﺴﻤﻟﺍﻭ ﺔﻧﺎﻣﻷﺍﻭ ﺔﻫﺍﺰﻨﻟﺍ
+. ﺎﻧﺩﺍﺪﺟﺃﻭ ﺎﻨﺋﺎﺑﺁ ﻦﻋ ﺎﻫﺎﻨﺛﺭﻭ
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-story/our-story.component.html</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurStoryContent2" datatype="html">
+        <source>
+    <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Mo’Ath Alma’Aitah<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> a young entrepreneur came up with the idea to adventure himself to open a location to sell tickets for people that want to go to Neweba, Sharm El Sheik and tours around the triangle, but at that particular time he only had $ 300 USD. Not a lot of money for a tour agency. But hope, faith and PMA were his bigger tools to make it happened and those $ 300 USD became just the ramp to increased 1000 % his money to $ 30,000 JD’s. By working hard and intelligent, he accomplished in short time his goal to focus in his new challenge.
+  </source>
+        <target>
+    <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>ﺔﻄﻳﺎﻌﻤﻟﺍ ﺏﺎﻫﻮﻟﺍﺪﺒﻋ ﺫﺎﻌﻣ ﺱﺪﻨﻬﻤﻟﺍ<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> ﻞﻤﻌﻟﺍﻭ ﻢﻠﻌﻟﺍﻭ ﻥﺎﻤﻳﻹﺍﻭ ﻞﻣﻷﺎﺑ ﺢﻠﺴﺗ ﻝﺎﻤﻋﻷﺍ ﻞﺟﺭﻭ ، ﺔﻛﺮﺸﻟﺍ ﺲﺳﺆﻣ
+ ﺓﺮﻜﻔﻟﺍ ﺬﻨﻣ ، ﻲﺣﺎﻴﺴﻟﺍ ﻉﺎﻄﻘﻟﺍ ﻲﻓ ﺯّﻴﻤﺘﻟﺍﻭ ﺡﺎﺠﻨﻟﺍ ﻦﻣ ﻪﻴﻟﺇ ﻞﺻﻭ ﺎﻣ ﻰﻟﺇ ﻞﺼﻴﻟ
+ ﻲﺳﺎﻴﻗ ﺖﻗﻭ ﻲﻓ ﻕﻮﻔﺘﻟﺍﻭ ﻉﺍﺪﺑﻹﺍ ﺩﻭﺪﺤﻟ ﺓﺮﺑﺎﻋ ﺔﻛﺮﺷ ﺖﺤﺒﺻﺃ ﻥﺃ ﻰﻟﺇ ﻰﻟﻭﻷﺍ
+ ﺡﺮﺼﻟﺍ ﺍﺬﻫ ﻲﻓ ﺓﺪﻳﺪﺟ ﺔﻠﺣﺮﻣ ﺀﺎﻨﺑ ﻰﻟﺇ ﻊﻠﻄﺘﻳ ﻥﻵﺍﻭ ، ﻪﺑ ﻑﺮﺘﻌﻣ ﺯﺎﺠﻧﺇﻭ
+. ﺎﻤﺋﺍﺩ ﻞﻀﻓﻷﺍ ﻥﻭﺪﻳﺮﺗ ﺀﺎﻳﻮﻗﺃ ﺀﺎﻛﺮﺸﻛ ﺔﻤﻳﺰﻌﻟﺍ ﻢﻜﻨﻣ ﺍﺪﻤﺘﺴﻣ
+  <br>
+  ﺍﻮﻌﻨﺼﻳﻭ ، ﺔﻣﺪﺨﻟﺍ ﺍﻮﻣّﺪﻘﻴﻟ ، ﺀﺍﺮﺒﺨﻟﺍ ﻞﻀﻓﺃ ﻊﻤﺘﺠﻳ ﺎﻨﻫ
+، ﺎﻬﺗﺎﻳﻮﺘﺴﻣ ﻰﻠﻋﺄﺑ ﺀﺎﻀﻋﻷﺍ ﺕﺎﺣﻮﻤﻃ ﺍﻮﻘﻘﺤﻳﻭ ، ﻕﺮﻔﻟﺍ
+.ﺢﻴﺤﺼﻟﺍ ﻥﺎﻜﻤﻟﺍ ﻲﻓ ﺔﻘﺜﻟﺍ : ﻝﻭﻷﺍ ﺎﻧﺭﺎﻌﺷ ﻢﻜﺑﻭ ﻢﻜﻌﻣ ﺍﻮﻠﻜﺸﻴﻟ
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-story/our-story.component.html</context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurMissionTitle" datatype="html">
+        <source>Our <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Mission<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target>ﺎﻨﺘﻟ <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>ﺎﺳﺭ<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-mission/our-mission.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurMissionSlogan" datatype="html">
+        <source>
+    To provide quality services that would exceed the expectations of our esteemed clients , focusing in building a strong long term relationship with our customers and clients and providing exceptional customer services by pursuing business through innovation and advanced technology.
+  </source>
+        <target>
+    ﺔﻗﻼﻋ ﺀﺎﻨﺑﻭ ، ﺕﺎﻌﻗﻮﺘﻟﺍ ﺯﻭﺎﺠﺘﺗ ﺓﺩﻮﺠﻟﺍ ﺔﻴﻟﺎﻋ ﺕﺎﻣﺪﺧ ﻢﻳﺪﻘﺗ
+ﺕﺎﻣﺪﺨﻟﺍ ﺮﻴﻓﻮﺗﻭ ، ﻡﺍﺮﻜﻟﺍ ﻱﺩﺎﻨﻟﺍ ﺀﺎﻀﻋﺃ ﻊﻣ ﺪﻣﻷﺍ ﺔﻠﻳﻮﻃﻭ ﺔﻳﻮﻗ
+ﻡﺍﺪﺨﺘﺳﺍﻭ ﺭﺎﻜﺘﺑﻻﺎﺑ ﻝﺎﻤﻋﻷﺍ ﺔﻌﺑﺎﺘﻣ ﻝﻼﺧ ﻦﻣ ﻢﻬﻟ ﺔﻴﺋﺎﻨﺜﺘﺳﻻﺍ
+.ﺔﻣﺪﻘﺘﻤﻟﺍ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-mission/our-mission.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurServicesTitle" datatype="html">
+        <source>Our <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Services<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <source>ﺎﻨﺗ <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>ﺎﻣﺪﺧ<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-services/our-services.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurServicesRemark" datatype="html">
+        <source>
+    We provide all the services according to the
+    needs of the traveler.
+  </source>
+        <target>
+    ﺀﺎﻀﻋﻷﺍ ﺕﺎﺟﺎﻴﺘﺣﺍ ﻲﺒﻠﺗ ﻲﺘﻟﺍ
+ﺔﻴﺣﺎﻴﺴﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻡﺪﻘﻧ ﻦﺤﻧ
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-services/our-services.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurServicesItem1" datatype="html">
+        <source>camel ride</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-services/our-services.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurServicesItem2" datatype="html">
+        <source>bus tickets</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-services/our-services.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurServicesItem3" datatype="html">
+        <source>airfares</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-services/our-services.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurServicesItem4" datatype="html">
+        <source>cruises</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-services/our-services.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurServicesItem5" datatype="html">
+        <source>hostels</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-services/our-services.component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurServicesItem6" datatype="html">
+        <source>camps</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-services/our-services.component.html</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurServicesItem7" datatype="html">
+        <source>hotels</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-services/our-services.component.html</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurServicesItem8" datatype="html">
+        <source>water sports</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-services/our-services.component.html</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurServicesItem9" datatype="html">
+        <source>many more</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-services/our-services.component.html</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurPortfolioTitle" datatype="html">
+        <source>Our <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Portfolio<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>ﺎﻧﺅﺎﻛﺮﺷ <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-portfolio/our-portfolio.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurPortfolioContent" datatype="html">
+        <source>
+    We are passionate about traveling which is why we excel at creating fabulous holiday experiences and from the moment you walk through our door we will assist you with your travel plans every steps of the way and will ensure your expectations are exceeded. We have the best destinations guides and services. We work with 700 tour operators.
+  </source>
+        <target>
+     ﺔﻴﺣﺎﻴﺳ ﺕﻼﺣﺭﻭ ، ﻕﺩﺎﻨﻔﻟﺍ ﺕﺍﺯﻮﺠﺣﻭ ، ﻥﺍﺮﻴﻃ ﺮﻛﺍﺬﺗ ﻦﻣ ﺀﺎﻀﻋﻷﺍ ﺕﺎﺟﺎﻴﺘﺣﺍ ﻲﺒﻠﺗ ﻲﺘﻟﺍ ﺔﻴﺣﺎﻴﺴﻟﺍ ﺕﺎﻣﺪﺨﻟﺍ ﻡﺪﻘﻧ ﻦﺤﻧ
+ ﺬﻨﻣ ، ﻰﺴﻨﺗ ﻻ ﺔﻌﺋﺍﺭ ﺔﺑﺮﺠﺗ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻣ ﻢﻜﻨﻜﻤﻴﺳ ﺎﻨﻴﻟﺇ ﻡﺎﻤﻀﻧﻻﺍﻭ ، ﺮﻔﺴﻟﺍ ﺓﺮﻜﻔﻟ ﻥﻮﺴﻤﺤﺘﻣ ﻦﺤﻧ ، ﺮﻴﺜﻤﻟﺍﻭ ﺮﻴﺜﻜﻟﺍ ﺎﻫﺮﻴﻏﻭ
+ ﻢﻜﺘﻣﺪﺧ ﻲﻓ ﺔﻴﺣﺎﻴﺴﻟﺍ ﺕﻼﺣﺮﻟﺍ ﻲﻠﻐﺸﻣ ﻦﻣ 700  ، ﻥﻮﻌﻗﻮﺘﺗ ﺎﻤﻣ ﺮﺜﻛﺃﻭ ، ﺓﻮﻄﺨﺑ ﺓﻮﻄﺧ ، ﺔﻣﻼﺴﻟﺎﺑ ﺓﺩﻮﻌﻟﺍ ﻰﻟﺇ ﺔﻠﺣﺮﻠﻟ ﻂﻴﻄﺨﺘﻟﺍ
+ :ﺔﻠﻫﺬﻤﻟﺍ ﺔﻴﺣﺎﻴﺴﻟﺍ ﺪﺻﺎﻘﻤﻟﺍ ﻰﻗﺭﺃ ﻰﻟﺇ ﻢﻜﻧﻭﺬﺧﺄﻳ
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-portfolio/our-portfolio.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionOurPortfolioProgramsList" datatype="html">
+        <source>
+    *Beach Holidays , Business Travel , Cruise and Excursions,
+    Escorted Tours , City Breaks ,Flights , HoneyMoon , Taylormade Vacations , Weddings , Ski , Spa Holidays , Special Interest, Sports , Concerts , UK Break , Villas , and More.
+  </source>
+        <target>
+    ، ﻝﺎﻤﻋﻷﺍ ﻝﺎﺟﺮﻟ ﺮﻔﺴﻟﺍ ﺕﻼﺣﺭﻭ ، ﺊﻃﺎﺸﻟﺍ ﺕﻼﻄﻋ
+ﺕﺎﺣﺍﺮﺘﺳﺍ ، ﺔﻴﻓﺎﺸﻜﺘﺳﻻﺍ ﺕﻼﺣﺮﻟﺍﻭ ، ﺔﻳﺮﺤﺒﻟﺍ ﺕﻼﺣﺮﻟﺍﻭ
+ﺔﻋﺎﻨﺻ ،ﻞﺴﻌﻟﺍ ﺮﻬﺷ ﺕﻼﺣﺭ ، ﺔﻳﻮﺠﻟﺍ ﺕﻼﺣﺮﻟﺍ ، ﺔﻨﻳﺪﻤﻟﺍ
+ﺕﻼﻄﻋ ، ﺪﻴﻠﺠﻟﺍ ﻰﻠﻋ ﻖﻠﺣﺰﺘﻟﺍ ، ﻑﺎﻓﺰﻟﺍ ﺕﻼﻔﺣ ،ﻞﻄﻌﻟﺍ
+ﺪﻳﺰﻤﻟﺍﻭ ، ﺓّﻴﻨﻔﻟﺍ ﺔﺣﺎﻴﺴﻟﺍ ، ﺔﻴﺿﺎﻳﺮﻟﺍ ﺔﺣﺎﻴﺴﻟﺍ ، ﻡﺎﻤﺠﺘﺳﻻﺍ
+.. ﺪﻳﺰﻤﻟﺍ
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/our-portfolio/our-portfolio.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionContactUsTitle" datatype="html">
+        <source>Contact <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Us<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target>ﺎﻨﻌﻣ <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>ﻞﺻﺍﻮﺘﻟﺍ<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact-us/contact-us.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionContactUsSubtitle" datatype="html">
+        <source>
+
+    by
+    <x id="TAG_IMG" ctype="image" equiv-text="&lt;img/&gt;"/>
+    phone or
+    <x id="TAG_IMG_1" ctype="image" equiv-text="&lt;img/&gt;"/>
+    whatsapp
+  </source>
+        <target>
+
+    ﻒﺗﺎﻬﻟﺍ ﻝﻼﺧ ﻦﻣ
+    <x id="TAG_IMG" ctype="image" equiv-text="&lt;img/&gt;"/>
+    ﺏﺍ ﺲﺗﺍﻮﻟﺍ ﻭﺍ
+    <x id="TAG_IMG_1" ctype="image" equiv-text="&lt;img/&gt;"/>
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact-us/contact-us.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionContactUsFromInsideJordanText" datatype="html">
+        <source>From Inside Jordan</source>
+        <target>ﻥﺩﺭﻻﺍ ﻞﺧﺍﺩ ﻦﻣ</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact-us/contact-us.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionContactUsFroumOtsideJordanText" datatype="html">
+        <source>From Outside of Jordan</source>
+        <target>From Outside of Jordan</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact-us/contact-us.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="sectionContactUsEmail" datatype="html">
+        <source>
+    Email:
+    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Sales@maitatravel.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+  </source>
+        <target>
+    ﻞﻴﻤﻳﻻﺍ
+    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Sales@maitatravel.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact-us/contact-us.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footerContent" datatype="html">
+        <source>
+  ©  2018 Maita travel all right receive
+</source>
+        <target>
+  ﺮﻔﺴﻟﺍﻭ ﺔﺣﺎﻴﺴﻠﻟ ﺔﻄﻳﺎﻌﻤﻟﺍ ﻪﺴﺳﺆﻤﻟ ﺔﻇﻮﻔﺤﻣ ﻕﻮﻘﺤﻟﺍ ﻞﻣﺎﻛ 2018 ©
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/page-footer/page-footer.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

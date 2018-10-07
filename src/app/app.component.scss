@@ -1,0 +1,18 @@
+@import "_settings.scss";
+@import "_colors.scss";
+@import "_sizes.scss";
+@import "_fonts.scss";
+@import "_flex_grid_classes.scss";
+
+// general settings for a page
+body {
+  width: 100%;
+  height: auto;
+
+  background-color: $white;
+
+  font-family: "Helvetica Neue LT Std 47 Light Condensed";
+  font-size: $font-size-22px;
+  font-weight: 300;
+  line-height: 1.82;
+}
